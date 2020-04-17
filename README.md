@@ -1,6 +1,8 @@
 # DMIAD
 Hands-On
 
+https://docs.microsoft.com/ja-jp/sql/ssma/sql-server-migration-assistant?view=sql-server-ver15
+
 ## HOL1 SSMAを利用したAzure SQL DB へのスキーマ移行
 
 ### TASK1. プロジェクト作成と設定
