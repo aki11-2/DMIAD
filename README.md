@@ -8,6 +8,9 @@ SSMAではプロジェクトの単位で変換作業を行います。プロジ�
 
 プロジェクトは下記の設定ができます
 
+
+![Startup](https://github.com/aki11-2/DMIAD/blob/master/Hands-on/SSMAforOracle_HandsOn_1.Startup_1-1.png)
+
 Global Settings
 Project Settings 
 Default Project Settings
